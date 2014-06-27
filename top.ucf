@@ -20,3 +20,12 @@ NET "clk" LOC = B8;
 NET "ds18b20" LOC = B7;
 NET "rst" LOC = A7;
 NET "the_btn" LOC = G12;
+
+NET "led[7]" LOC = G1;
+NET "led[6]" LOC = P4;
+NET "led[5]" LOC = N4;
+NET "led[4]" LOC = N5;
+NET "led[3]" LOC = P6;
+NET "led[2]" LOC = P7;
+NET "led[1]" LOC = M11;
+NET "led[0]" LOC = M5;
